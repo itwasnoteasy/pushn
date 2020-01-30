@@ -1,0 +1,7 @@
+{
+  "name": "vzpresence",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

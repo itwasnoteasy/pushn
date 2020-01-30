@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "557672373542",
+    "firebase_url": "https://presence-a49dc.firebaseio.com",
+    "project_id": "presence-a49dc",
+    "storage_bucket": "presence-a49dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557672373542:android:23537bbb920465082135e7",
+        "android_client_info": {
+          "package_name": "com.vz.presence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557672373542-ucl6f97ks3kceho9n19g2dmsrfc1v6f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMrpOY-P_3yizWAPNMgVsRkzq-y-wDiy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557672373542-ucl6f97ks3kceho9n19g2dmsrfc1v6f4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

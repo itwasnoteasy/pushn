@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">vzpresence</string>
+    <string name="title_activity_main">vzpresence</string>
+    <string name="package_name">com.vz.presence</string>
+    <string name="custom_url_scheme">com.vz.presence</string>
+</resources>

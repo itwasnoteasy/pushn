@@ -1,0 +1,8 @@
+{
+  "appId": "com.vz.presence",
+  "appName": "vzpresence",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
